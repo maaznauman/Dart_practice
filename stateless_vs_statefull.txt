@@ -1,0 +1,22 @@
+stateless and statefull widgets 
+
+stateless
+If widget does not do anything it is called stateless 
+stateless widgets do not interact with other widget or user 
+static in nature
+user cant interact with stateless
+stateless widgets donot store any real time data
+
+Examples: simple text widgets icons etc
+
+
+ 
+
+statefull widget
+if a widget does anything it is called statefull 
+statefull widget will interact with other widgets and the user 
+Dynamic in nature 
+user can interact with statefull widgets 
+statefull widgets performs realtime data and perform tasks accordingly 
+
+Examples : Button,sliders,radiobox,textfields etc 
